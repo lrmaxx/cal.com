@@ -24,13 +24,13 @@
     "yarn": "3.4.1"
   },
   "dependencies": {
-    "@boxyhq/saml-jackson": "1.8.2",
+    "@boxyhq/saml-jackson": "1.26.1",
     "@calcom/app-store": "*",
     "@calcom/app-store-cli": "*",
     "@calcom/core": "*",
     "@calcom/dayjs": "*",
-    "@calcom/embed-core": "workspace:*",
-    "@calcom/embed-react": "workspace:*",
+    "@calcom/embed-core": "1.0.0",
+    "@calcom/embed-react": "1.0.0",
     "@calcom/embed-snippet": "workspace:*",
     "@calcom/features": "*",
     "@calcom/lib": "*",
