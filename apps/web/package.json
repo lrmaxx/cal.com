@@ -24,13 +24,13 @@
     "yarn": "3.4.1"
   },
   "dependencies": {
-    "@boxyhq/saml-jackson": "1.8.2",
+    "@boxyhq/saml-jackson": "1.33.0",
     "@calcom/app-store": "*",
     "@calcom/app-store-cli": "*",
     "@calcom/core": "*",
     "@calcom/dayjs": "*",
-    "@calcom/embed-core": "workspace:*",
-    "@calcom/embed-react": "workspace:*",
+    "@calcom/embed-core": "1.0.0",
+    "@calcom/embed-react": "1.0.0",
     "@calcom/embed-snippet": "workspace:*",
     "@calcom/features": "*",
     "@calcom/lib": "*",
@@ -128,7 +128,7 @@
     "tailwindcss-radix": "^2.6.0",
     "turndown": "^7.1.1",
     "uuid": "^8.3.2",
-    "web3": "^1.7.5",
+    "web3": "^4.0.1",
     "zod": "^3.22.2"
   },
   "devDependencies": {
