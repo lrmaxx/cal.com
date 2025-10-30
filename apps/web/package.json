@@ -90,7 +90,7 @@
     "micro": "^10.0.1",
     "mime-types": "^2.1.35",
     "next": "^13.4.6",
-    "next-auth": "^4.22.1",
+    "next-auth": "^4.24.12",
     "next-axiom": "^0.17.0",
     "next-collect": "^0.2.1",
     "next-i18next": "^13.2.2",
@@ -126,7 +126,7 @@
     "stripe": "^9.16.0",
     "superjson": "1.9.1",
     "tailwindcss-radix": "^2.6.0",
-    "turndown": "^7.1.1",
+    "turndown": "^7.2.2",
     "uuid": "^8.3.2",
     "web3": "^1.7.5",
     "zod": "^3.22.2"
